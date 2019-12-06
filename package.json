@@ -1,0 +1,25 @@
+{
+  "name": "koa-server",
+  "version": "1.0.0",
+  "description": "koa",
+  "main": "app.js",
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CQL111/koa-server.git"
+  },
+  "author": "chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CQL111/koa-server/issues"
+  },
+  "homepage": "https://github.com/CQL111/koa-server#readme"
+}
